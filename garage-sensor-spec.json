@@ -1,0 +1,8 @@
+{
+    "name" : "light.v1.0/light",
+    "type" : {
+        "name": "enableiot"
+    },
+    "port": 32452,
+    "type_params": {"deviceid":"02-00-86-7e-d6-c5", "activationCode":"Ey3Gyclr"}
+}
